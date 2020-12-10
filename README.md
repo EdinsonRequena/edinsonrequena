@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ![Edinson's github stats](https://github-readme-stats.vercel.app/api?username=edinsonrequena&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edinsonrequena)](https://github.com/edinsonrequena/github-readme-stats)
+
 [![edinson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edinsonrequena)](https://github.com/edinsonrequena/github-readme-stats)
 
 
