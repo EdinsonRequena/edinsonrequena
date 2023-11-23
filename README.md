@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edinsonrequena&theme=radical)](https://github.com/edinsonrequena/github-readme-stats)
 
-[![edinson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edinsonrequena&theme=radical)](https://github.com/edinsonrequena/github-readme-stats)
+[![edinson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edinsonrequena&theme=radical&layout=compact&langs_count=3)](https://github.com/edinsonrequena/github-readme-stats)
 
 
 
