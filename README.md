@@ -1,4 +1,4 @@
-### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/c347e23a-4071-4329-8d50-505864c50068.svg)](https://wakatime.com/@c347e23a-4071-4329-8d50-505864c50068)
 
 ![Edinson's github stats](https://github-readme-stats.vercel.app/api?username=edinsonrequena&show_icons=true&theme=radical)
 
