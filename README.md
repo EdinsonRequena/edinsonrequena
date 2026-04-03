@@ -19,8 +19,8 @@ Software engineer and physicist building AI products while going deeper into mat
 <summary>What I’m focused on right now</summary>
 
 - Building AI products
-- Studying mathematics and algorithms
 - Building hardware projects
+- Studying mathematics and algorithms
 - Streaming on Twitch
 - Writing and exploring deeper foundations
 
@@ -102,4 +102,4 @@ When I’m not coding or studying, I’m streaming on Twitch.
 [![X](https://img.shields.io/badge/X-@requenaea-000000?style=flat&logo=x&logoColor=white)](https://x.com/requenaea)
 [![Medium](https://img.shields.io/badge/Medium-@edinsonrequena-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@edinsonrequena)
 [![Twitch](https://img.shields.io/badge/Twitch-edinsonrequena-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/edinsonrequena)
-[![Gmail](https://img.shields.io/badge/Gmail-replace%20this%20email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email-here)
+[![Gmail](https://img.shields.io/badge/Gmail-edinson17286@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:edinson17286@gmail.com)
