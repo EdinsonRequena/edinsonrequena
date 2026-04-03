@@ -11,7 +11,6 @@ Software engineer and physicist building AI products while going deeper into mat
 [![Medium](https://img.shields.io/badge/Medium-@edinsonrequena-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@edinsonrequena)
 [![Twitch](https://img.shields.io/badge/Twitch-edinsonrequena-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/edinsonrequena)
 [![Gmail](https://img.shields.io/badge/Gmail-edinson17286@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:edinson17286@gmail.com)
-
 [![wakatime](https://wakatime.com/badge/user/c347e23a-4071-4329-8d50-505864c50068.svg)](https://wakatime.com/@c347e23a-4071-4329-8d50-505864c50068)
 
 **Main stack:** Python, Django, FastAPI, JavaScript, React, TypeScript, React Native, Node.js, OpenAI, LangChain, WebSockets.
