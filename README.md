@@ -28,43 +28,42 @@ Software engineer and physicist building AI products while going deeper into mat
 
 ## 🚀 Own Projects
 
-[`P2PAlertAIBot`](https://www.linkedin.com/company/p2palertaibot/?viewAsMember=true)
+💸 [`P2PAlertAIBot`](https://www.linkedin.com/company/p2palertaibot/?viewAsMember=true)
 A platform for Binance P2P operations, real-time support, alerts, and operational automation. Currently processing over $2M USD per month in orders.
 
-[`Linux Ubuntu Theme`](https://marketplace.visualstudio.com/items?itemName=edinsonrequena.linux-ubuntu-theme)
+💻 [`Linux Ubuntu Theme`](https://marketplace.visualstudio.com/items?itemName=edinsonrequena.linux-ubuntu-theme)
 A VS Code theme inspired by Ubuntu’s visual identity, with 20K+ downloads on the marketplace.
 
-`Motorio` · Coming soon
-A builder-led project aimed at deeper systems thinking, practical engineering, and more technically serious product work.
+🏍️ `Motorio` · Coming soon
 
-[`Computer Science Topics`](https://github.com/EdinsonRequena/computer-sicence-topics)
+🤓 [`Computer Science Topics`](https://github.com/EdinsonRequena/computer-sicence-topics)
 A repository for notes, explorations, and study material around computer science and deep technical foundations.
 
 ### Legacy Projects
 
 Older experiments built from curiosity, reverse engineering interest, and educational exploration.
 
-[`Ransomware`](https://github.com/EdinsonRequena/ransomware-with-python-3)
+🦠 [`Ransomware`](https://github.com/EdinsonRequena/ransomware-with-python-3)
 An educational Python project exploring how ransomware-style file encryption works at a technical level.
 
-[`Keylogger`](https://github.com/EdinsonRequena/keylogger_with_python_3)
+⌨️ [`Keylogger`](https://github.com/EdinsonRequena/keylogger_with_python_3)
 A Python experiment focused on understanding keystroke capture mechanics and low-level monitoring concepts.
 
-[`Email Bomb`](https://github.com/EdinsonRequena/email-whatsapp-bomb)
+💣 [`Email Bomb`](https://github.com/EdinsonRequena/email-whatsapp-bomb)
 A Python project created to explore bulk email automation and how repeated-message attack patterns work in practice.
 
 ## 🧩 Projects I’ve Helped Build
 
-[`Zinli`](https://www.zinli.com/)
+💵 [`Zinli`](https://www.zinli.com/)
 A fintech product with hundreds of thousands of users. I contributed to more than 10 production releases across features like top-ups, bill payments, cash out, and regional flows.
 
-[`RPAMaker`](https://rpamaker.com/)
+🤖 [`RPAMaker`](https://rpamaker.com/)
 I helped build AI agents and core platform capabilities for automation workflows, code generation, and RPA-oriented development from the ground up.
 
-[`Tecnología Financiera / UNIMET`](https://www.tecnologiafinanciera.com)
+👨🏻‍🏫 [`Tecnología Financiera / UNIMET`](https://www.tecnologiafinanciera.com)
 I taught Python programming with a focus on problem solving, programming logic, and foundations relevant to finance and technology.
 
-[`Genios Studio`](https://geniosstudios.com/genios-apps/)
+👨🏻‍💻[`Genios Studio`](https://geniosstudios.com/genios-apps/)
 I worked on AI-powered products related to real-time tweet capture, social media data, and sentiment analysis with OpenAI.
 
 ## ✍️ Writing
