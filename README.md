@@ -37,6 +37,7 @@ Python, Django, FastAPI, JavaScript, React, TypeScript, React Native, Node.js, O
 - 💻 [**Linux Ubuntu Theme**](https://marketplace.visualstudio.com/items?itemName=edinsonrequena.linux-ubuntu-theme) — A VS Code theme inspired by Ubuntu’s visual identity, with 20K+ downloads on the marketplace.
 - 💂🏻 [**Focus Guardian**](https://github.com/EdinsonRequena/focus-guardian) — A computer vision app that detects distractions in real time using webcam-based face and eye tracking, with visual feedback and audio alerts.
 - 🤓 [**Computer Science Topics**](https://github.com/EdinsonRequena/computer-sicence-topics) — A repository for notes, explorations, and study material around computer science and deep technical foundations.
+- - 🏍️ [**AirMath AI**](https://github.com/EdinsonRequena/airmath-ai) — Coming soon.
 - 🏍️ **Motorio** — Coming soon.
 - 🤖 **AI SDK** - Coming soon
 - 🛠️ **Edge AI** - Raspberry Pi-based AI and hardware experiments. Coming soon.
